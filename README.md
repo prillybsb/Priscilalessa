@@ -21,8 +21,7 @@
   <a href="https://www.instagram.com/caldasflamejantes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/[prillybsb](https://www.linkedin.com/in/priscila-lessa-b1862610a/)/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/prillybsb/prillybsb/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=prillybsb&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
+
